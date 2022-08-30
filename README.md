@@ -9,7 +9,7 @@ Not only will this tool allow you to check real stocks’ actual prices and port
 Learnt to develop with flask, including the use of API (for the stocks info and prices)
 
 ## How To Run
-//TODO
+//TODO - Will be updated, for now visit [Here](https://cs50.harvard.edu/x/2020/tracks/web/finance/) for instructions.
 
 ## Verefied Certificate:
 * [The certificate](https://courses.edx.org/certificates/aeaabda0c5a54bfbaadaff56e0c25303)
